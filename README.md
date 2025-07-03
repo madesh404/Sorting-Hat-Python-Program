@@ -6,10 +6,10 @@ Welcome to Hogwarts! This is a simple Python program that sorts you into one of 
 
 Inspired by the magical world of Harry Potter, this command-line quiz will ask the user a series of personality-based questions and then assign them to a house:
 
-- 🦁 Gryffindor
-- 🦅 Ravenclaw
-- 🦡 Hufflepuff
-- 🐍 Slytherin
+- 🦁 Gryffindor  
+- 🦅 Ravenclaw  
+- 🦡 Hufflepuff  
+- 🐍 Slytherin  
 
 At the end, the Sorting Hat will reveal your house!
 
@@ -19,11 +19,13 @@ Make sure you have Python installed. Then in your terminal:
 
 ```bash
 python sorting_hat.py
+```
 
-or 
+or
 
 ```bash
 py sorting_hat.py
+```
 
 ## 📦 Requirements
 
