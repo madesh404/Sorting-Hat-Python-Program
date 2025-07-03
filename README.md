@@ -50,4 +50,5 @@ No external libraries required — just standard Python (3.x).
 ## 🧙 Credits
 
 Made with Python and a bit of magic ⚡
+
 Inspired by J.K. Rowling's Harry Potter universe.
